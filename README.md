@@ -1,4 +1,4 @@
-# Health-Insurance-Cross-Sell-Prediction
+# Health Insurance Cross-Sell Prediction
 ![health](https://user-images.githubusercontent.com/61588079/150656306-7f8ce0e9-1e00-4b2f-a9ee-7105cdd05498.jpg)
 
 
