@@ -1,5 +1,6 @@
 # Health-Insurance-Cross-Sell-Prediction
-![1.jpg](1.jpg)
+![health](https://user-images.githubusercontent.com/61588079/150656306-7f8ce0e9-1e00-4b2f-a9ee-7105cdd05498.jpg)
+
 
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from the past year will also be interested in Vehicle Insurance provided by the company.
 
